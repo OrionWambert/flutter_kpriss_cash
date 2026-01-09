@@ -1,0 +1,105 @@
+.2 Gestion des comptes
+
+Création de comptes :
+
+Compte bancaire
+
+Espèces
+
+Carte de crédit
+
+Épargne
+
+Solde initial
+
+Devise personnalisable
+
+4.3 Gestion des revenus
+
+Ajout de revenus :
+
+Salaire
+
+Freelance
+
+Allocations
+
+Autres
+
+Revenus récurrents
+
+Catégorisation
+
+4.4 Gestion des dépenses
+
+Ajout manuel des dépenses
+
+Catégories personnalisables :
+
+Logement
+
+Transport
+
+Alimentation
+
+Loisirs
+
+Santé
+
+Dépenses récurrentes
+
+Ajout de notes & justificatifs (photo ticket)
+
+4.5 Budgets
+
+Création de budgets mensuels par catégorie
+
+Alertes de dépassement
+
+Indicateurs visuels (barres, couleurs)
+
+Historique des budgets
+
+4.6 Tableaux de bord & statistiques
+
+Vue globale du solde
+
+Graphiques :
+
+Dépenses par catégorie
+
+Évolution mensuelle
+
+Revenus vs dépenses
+
+Filtres par période
+
+4.7 Objectifs financiers
+
+Création d’objectifs :
+
+Épargne
+
+Voyage
+
+Achat important
+
+Montant cible
+
+Suivi de progression
+
+4.8 Notifications
+
+Rappels de paiements
+
+Alertes de budget
+
+Résumé hebdomadaire / mensuel
+
+4.9 Export & partage
+
+Export des données (PDF / CSV)
+
+Partage avec un conseiller ou un partenaire
+
+Sauvegarde & restauration
